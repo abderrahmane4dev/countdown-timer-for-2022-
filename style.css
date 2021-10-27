@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", sans-serif;
+    margin: 0;
+}
+
+span {
+    background-color: blue;
+    color: white;
+    font-size: 19px;
+    margin: 20px auto;
+}
+
+p {
+    color: aliceblue;
+    font-size: 21px;
+}
+
+div {
+    display: flex;
+    padding: 20px;
+    align-items: center;
+    background-color: black;
+}
